@@ -68,7 +68,7 @@
 
 [![committers.top](https://user-badge.committers.top/kenya_public/mwakidenis.svg)](https://user-badge.committers.top/kenya_public/mwakidenis)
 
-
+[![Top Committer](https://api.star-history.com/badge?user=mwakidenis&year=2026)](https://www.star-history.com/mwakidenis)
   
 </div>
 
