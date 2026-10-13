@@ -103,13 +103,7 @@
 <table>
 <tr>
 <td width="33%">
-  <a href="https://github.com/mwakidenis">
-    <img
-      alt="Denis Mwaki's GitHub Stats"
-      width="100%"
-      height="210px"
-      src="https://gh-readme-profile.vercel.app/api?username=mwakidenis&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"
-    />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mwakidenis&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
   </a>
 </td>
 
