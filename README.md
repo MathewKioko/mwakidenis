@@ -96,7 +96,7 @@
   </div>
   
 <div align="center">
- <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=mwakidenis&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://gh-readme-profile.vercel.app/api?username=mwakidenis&theme=tokyonight&bg_color=00000000&title_color=00FF41&text_color=C9D1D9&icon_color=00FF41&username_color=00FF41"/>
   <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=mwakidenis&theme=radical"/>
 </div>
 
